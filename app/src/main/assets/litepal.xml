@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <!--数据库名称-->
+    <dbname value="english" />
+    <!--数据库版本-->
+    <version value="2" />
+    <!--有几张表就在list之间写几个mapping，list标签中的实体类都应该继承LitePalSupport这个类-->
+    <list>
+        <mapping class="com.sdg.bec.db.Words" />
+        <mapping class="com.sdg.bec.db.Sentence" />
+        <mapping class="com.sdg.bec.db.Article" />
+    </list>
+
+    <!--storage 定义数据库文件存储的地方,可选 internal(内部) 和 external（外部）, 默认为 internal  -->
+    <storage value="bec/db/" />
+
+</litepal>

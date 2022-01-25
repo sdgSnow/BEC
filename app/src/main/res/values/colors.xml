@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="base_blue">#1890FF</color>
+    <color name="base_back">#F2F2F2</color>
+    <!--  bottombar  -->
+    <color name="text_select">#ff6633</color>
+    <color name="text_no_select">#194aa7</color>
+    <color name="colorCircle">#ff3c0c</color>
+    <color name="base_text_desc">#888888</color>
+
+    <!--状态颜色-->
+    <color name="add">#888888</color>
+    <color name="know">#1890FF</color>
+    <color name="memorize">#f00</color>
+
+    <color name="base_line">#10000000</color>
+    <color name="f5f4">#F5F4F4</color>
+    <color name="app_back2">#262626</color>
+</resources>

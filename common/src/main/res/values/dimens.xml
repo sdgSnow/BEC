@@ -1,0 +1,8 @@
+<resources>
+    <!--toolbar-->
+    <dimen name="toolbar_size">55dp</dimen>
+    <dimen name="toolbar_height">55dp</dimen>
+    <dimen name="toolbar_back_size">16sp</dimen>
+    <dimen name="toolbar_title_size">20sp</dimen>
+    <dimen name="toolbar_menu_size">16sp</dimen>
+</resources>
